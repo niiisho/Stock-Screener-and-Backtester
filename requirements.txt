@@ -1,5 +1,5 @@
 flask==3.0.3
 pandas==2.2.2
 numpy==1.26.4
-kiteconnect==4.1.1
 gunicorn==21.2.0
+yfinance==0.2.48
